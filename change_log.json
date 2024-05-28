@@ -1,0 +1,11 @@
+{
+  "latestVersion": "2.0",
+  "packageName": "ramcms_update",
+  "change_log": [
+    "<strong>Nội dung cập nhật: 2.0</strong>",
+    "1. Xóa url ẩn tại ramcms",
+    "2. Cập nhật Apii crawl Apii.Online"
+  ],
+  "telegram": "https://t.me/+uGpf4TNyw1o5MTE1",
+  "githubRepo": "https://github.com/apiiphim/ramcms"
+}
