@@ -1,10 +1,11 @@
 {
-  "latestVersion": "2.0",
+  "latestVersion": "3.0",
   "packageName": "apiicms_update",
   "change_log": [
     "<strong>Nội dung cập nhật: 2.0</strong>",
     "1. Fix lỗi tồn đọng",
-    "2. Cập nhật ApiiCms"
+    "2. Cập nhật ApiiCms",
+    "3. Test Update, ae dùng ổn thì Donate nhé! hihi"
   ],
   "telegram": "https://t.me/apiionlines",
   "githubRepo": "https://github.com/apiiphim/apiicms"
