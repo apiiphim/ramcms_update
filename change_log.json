@@ -1,6 +1,6 @@
 {
   "latestVersion": "2.0",
-  "packageName": "ramcms_update",
+  "packageName": "apiicms_update",
   "change_log": [
     "<strong>Nội dung cập nhật: 2.0</strong>",
     "1. Fix lỗi tồn đọng",
