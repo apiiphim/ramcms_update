@@ -1,13 +1,12 @@
 {
-  "latestVersion": "4",
+  "latestVersion": "5",
   "packageName": "apiicms_update",
   "change_log": [
     "<strong>Ví USDT nhận donate của em TRC20 : TNAaEjUsWFaZLNhdooM3Aqs1kcUacFsZRE",
     "<strong>Nội dung cập nhật: v4</strong>",
-    "1. Fix lỗi tồn đọng",
-    "2. Cập nhật ApiiCms",
-    "3. Cập nhật máy chủ NguồnC",
-    "4. Bật tính năng tự động cập nhật"
+    "1. Sửa lỗi cào Nguồn C - Link Gốc",
+    "- Sửa nhầm lẫn map ngu của nó",
+    "- Quốc gia với Năm sản xuất"
     
   ],
   "telegram": "https://t.me/apiionlines",
