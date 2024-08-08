@@ -1,12 +1,16 @@
 {
-  "latestVersion": "5",
+  "latestVersion": "6",
   "packageName": "apiicms_update",
   "change_log": [
     "<strong>Ví USDT nhận donate của em TRC20 : TNAaEjUsWFaZLNhdooM3Aqs1kcUacFsZRE",
     "<strong>Nội dung cập nhật: v5</strong>",
     "1. Sửa lỗi cào Nguồn C - Link Gốc",
     "- Sửa nhầm lẫn map ngu của nó",
-    "- Quốc gia với Năm sản xuất"
+    "- Quốc gia với Năm sản xuất",
+    "<strong>Nội dung cập nhật: v6</strong>",
+    "1. Thêm nút tạo nhanh slug khi thêm phim thủ công",
+    "2. Thêm trình phát JWPlayer",
+    "- Xem hướng dẫn trước khi update nếu muốn nâng cấp trình phát mới: https://raw.githubusercontent.com/apiiphim/apiicms_update/main/h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20th%C3%AAm%20jwplayer.txt"
     
   ],
   "telegram": "https://t.me/apiionlines",
